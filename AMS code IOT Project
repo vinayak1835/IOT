@@ -10,13 +10,13 @@
 #define analogpin         A0
 
 #define WLAN_SSID       "Redmi"
-#define WLAN_PASS       "123456789"
+#define WLAN_PASS       "*******"
 
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "vud"
-#define AIO_KEY         "aio_WXIf36MIlDTj2vdWwvf2rrbhrqY5"//
+#define AIO_USERNAME    "***"
+#define AIO_KEY         "***********"//
 
 
 // Create an ESP8266 WiFiClient class to connect to the MQTT server.
